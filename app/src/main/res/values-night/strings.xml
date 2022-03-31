@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konversi Unit</string>
+    <string name="konversi_unit">Aplikasi ini berfungi untuk mengkonversi satuan cm ke satuan kaki</string>
+    <string name="satuan_cm">Satuan (cm)</string>
+    <string name="satuan_kaki">Satuan (kaki)</string>
+    <string name="konversi_button">Konversi</string>
+    <string name="satuan_cm_invalid">Satuan cm harus diisi!.</string>
+</resources>
